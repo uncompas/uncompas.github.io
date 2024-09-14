@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uncompas.github.io/sitemap.html.gz
+Sitemap: https://uncompas.github.io/app/sitemap.html.gz
+Sitemap: https://uncompas.github.io/assets/sitemap.html.gz
+Sitemap: https://uncompas.github.io/css/sitemap.html.gz
+Sitemap: https://uncompas.github.io/includes/sitemap.html.gz
+Sitemap: https://uncompas.github.io/item/sitemap.html.gz
+Sitemap: https://uncompas.github.io/src/sitemap.html.gz
